@@ -6,10 +6,10 @@ function App() {
   return (
     <div className="App">
       <div class="bg-white border-slate-100 dark:bg-slate-800 dark:border-slate-500 border-b rounded-t-xl p-4 pb-6 sm:p-10 sm:pb-8 lg:p-6 xl:p-10 xl:pb-8 space-y-6 sm:space-y-8 lg:space-y-6 xl:space-y-8">
-     <div class="flex items-center space-x-4">
+        <div class="flex items-center space-x-4">
 
-    <img src="/full-stack-radio.png" alt="" width="88" height="88" class="flex-none rounded-lg bg-slate-100" loading="lazy" />
-    <div class="min-w-0 flex-auto spce-y-1 font-semibold">
+        <img src="/full-stack-radio.png" alt="" width="88" height="88" class="flex-none rounded-lg bg-slate-100" loading="lazy" />
+      <div class="min-w-0 flex-auto spce-y-1 font-semibold">
       <p class="text-cyan-500 dark:text-cyan-400 text-sm leading-6">
         <abbr title="Episode">Ep.</abbr> 128
       </p>
